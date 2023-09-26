@@ -1,0 +1,4 @@
+.env
+#dependency directory
+node_modules
+.netlify
